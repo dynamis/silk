@@ -10,6 +10,6 @@ For now we provide nightly builds that are generated daily and contain the very 
 
 - Latest nightly build: [download](https://d2xr8z98rg6hpy.cloudfront.net/nightly/kenzo/linux/1.9.0/target.tar.gz)
 
-## Sony Xperia X3 Compact D5803 (aries)
+## Sony Xperia Z3 Compact D5803 (aries)
 
 - Latest nightly build: [download](https://d2xr8z98rg6hpy.cloudfront.net/nightly/aries/linux/1.9.0/target.tar.gz)
